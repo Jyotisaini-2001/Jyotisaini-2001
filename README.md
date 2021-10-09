@@ -1,8 +1,14 @@
-### Hi there 👋
-It's nice to meet you.
-I'm Jyoti Saini.
-Web Developer and coding enthusiast.
-I am currently pursuing my Btech degree in Information Technology from GGV.  I am interested in web development and Programming(in C++ language). And highly interested in programming. Presently I am learning DSA and JAVASCRIPT.
+### Hi there 👋, my name is Jyoti Saini
+#### Web Developer and coding enthusiast.
+![Web Developer and coding enthusiast.](https://pbs.twimg.com/profile_banners/1411225859969585160/1633785196/600x200)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jyotisaini-2001)](https://github.com/anuraghazra/github-readme-stats)
+I am currently pursuing my Btech degree in Information Technology from GGV. I am interested in web development and Programming(in the C++ language). And highly interested in programming. Presently I am learning DSA and JAVASCRIPT.
+
+Skills: C++/ C / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
 
