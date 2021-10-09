@@ -22,7 +22,7 @@ Skills: C++/ C / JS / HTML / CSS / BOOTSTRAP
 
 
 
-  <img src="https://images.app.goo.gl/wWLmGTB3ARx6TiPe7" alt="">
+  <img src="https://images.app.goo.gl/wWLmGTB3ARx6TiPe7" alt="html">
 
 ## [![trophy](https://github-profile-trophy.vercel.app/?username=Jyotisaini-2001)](https://github.com/ryo-ma/github-profile-trophy)
 
