@@ -22,7 +22,7 @@ Skills: C++/ C / JS / HTML / CSS / BOOTSTRAP
 
 
 
-  <img src="https://images.app.goo.gl/wWLmGTB3ARx6TiPe7" alt="html">
+  <img src="https://static01.nyt.com/images/2020/12/23/business/23Techfix-illo/23Techfix-illo-articleLarge.gif?quality=75&auto=webp&disable=upscale" alt="html">
 
 ## [![trophy](https://github-profile-trophy.vercel.app/?username=Jyotisaini-2001)](https://github.com/ryo-ma/github-profile-trophy)
 
