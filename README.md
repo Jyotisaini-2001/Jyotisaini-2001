@@ -35,7 +35,7 @@ Skills:⭐
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jyotisaini-2001&show_icons=true&count_private=true) 
 
-## snake eating my contribution graph
+## Graph✨
 ![snake gif](https://github.com/Jyotisaini-2001/Jyotisaini-2001/blob/output/github-contribution-grid-snake.gif)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jyotisaini-2001)  
