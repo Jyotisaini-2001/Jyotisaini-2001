@@ -21,7 +21,7 @@ Skills:⭐
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jyotisaini-2001)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jyoti-saini-b31752203//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Jyotisa60592422)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/@saini-js)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/jyoti_2002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/js_saini267)  
 
 
-![Snake animation](https://github.com/riz4d/riz4d/blob/NzI2OTdhNjE2NA/NzI2OTdhNjE2NA.svg)
+
 
  
 
@@ -33,7 +33,10 @@ Skills:⭐
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotisaini-2001)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jyotisaini-2001&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jyotisaini-2001&show_icons=true&count_private=true) 
+
+## snake eating my contribution graph
+![snake gif](https://github.com/Jyotisaini-2001/Jyotisaini-2001/blob/output/github-contribution-grid-snake.gif)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jyotisaini-2001)  
 
@@ -42,3 +45,6 @@ Skills:⭐
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jyotisaini-2001)  
 
 ![Profile views](https://gpvc.arturio.dev/Jyotisaini-2001)  
+
+
+
