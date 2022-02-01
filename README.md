@@ -40,7 +40,7 @@ Skills:⭐
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jyotisaini-2001)  
 
-![GitHub metrics](https://metrics.lecoq.io/?user=Jyotisaini-2001)  
+![GitHub metrics](https://metrics.lecoq.io/?username=Jyotisaini-2001)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jyotisaini-2001)  
 
