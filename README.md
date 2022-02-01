@@ -1,5 +1,5 @@
 ### Hi there 👋,This is Jyoti Saini🤗
-#### coding enthusiast & Web Developer.
+#### coding enthusiast & Web Developer Noobi.
 ✨"Unlock the guidance, tools, and resources you need to design your best life – then live it. Every. Single. Day."
 
 ![Web Developer and coding enthusiast.](https://pbs.twimg.com/profile_banners/1411225859969585160/1633785196/600x200)
@@ -7,7 +7,7 @@
 ✨I am currently pursuing my Btech degree in Information Technology from GGV. I am interested in web development and Programming(in the C++ language). And highly interested in programming. Presently I am learning DSA and JAVASCRIPT.
 
 Skills:⭐
-## C++/ C / JS / HTML / CSS / BOOTSTRAP 
+## C++/ C / JS / HTML / CSS / BOOTSTRAP / DSA
 
 
 - 🔭 I’m currently working on Front-end web development 
@@ -40,7 +40,7 @@ Skills:⭐
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jyotisaini-2001)  
 
-![GitHub metrics](https://metrics.lecoq.io/Jyotisaini-2001)  
+![GitHub metrics](https://metrics.lecoq.io/?user=Jyotisaini-2001)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jyotisaini-2001)  
 
