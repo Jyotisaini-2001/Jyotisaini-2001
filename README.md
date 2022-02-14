@@ -1,8 +1,9 @@
 ### Hi there 👋,<Jyoti Saini🤗 This side./>
 #### Coding enthusiast & Web Developer Noobi.
 ✨"Unlock the guidance, tools, and resources you need to design your best life – then live it. Every. Single. Day."
-<img src="https://images-cdn.newscred.com/Zz04NjA3ZjljMjQ0ODkxMWViOWRjYzU1OGJkNjI1ZjVkZA==">
-![Web Developer and coding enthusiast.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarketing.istockphoto.com%2Fblog%2Fhow-to-create-custom-gifs%2F&psig=AOvVaw3AETAoFkRKg119LNK6nxLo&ust=1644891579553000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCj-eaQ_vUCFQAAAAAdAAAAABAD)
+
+<img src="https://images-cdn.newscred.com/Zz04NjA3ZjljMjQ0ODkxMWViOWRjYzU1OGJkNjI1ZjVkZA== width="500">
+
 
 ✨I am currently pursuing my Btech degree in Information Technology from GGV. I am interested in web development and Programming(in the C++ language). And highly interested in programming. Presently I am learning DSA and JAVASCRIPT.
 
