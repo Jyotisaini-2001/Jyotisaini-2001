@@ -2,7 +2,7 @@
 #### Coding enthusiast & Web Developer Noobi.
 ✨""Unlock the guidance, tools, and resources you need to design your best life – then live it🤗. Every. Single. Day🤩.""
 
-<img src="https://images-cdn.newscred.com/Zz04NjA3ZjljMjQ0ODkxMWViOWRjYzU1OGJkNjI1ZjVkZA==" height="400" width="550">
+<img src="https://thumbs.dreamstime.com/b/architect-work-cartoon-composition-architect-work-cartoon-composition-male-female-colleagues-discussing-projects-technical-199698276.jpg" height="400" width="550">
 
 
 ✨I am currently pursuing my Btech degree in Information Technology from GGV. I am interested in web development and Programming(in the C++ language). And highly interested in programming. Presently I am learning DSA and JAVASCRIPT.
