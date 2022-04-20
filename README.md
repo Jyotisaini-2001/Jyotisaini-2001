@@ -8,7 +8,7 @@
 🎯 Currently, I am pursuing BTech 2nd year in Information technology from GGV BILASPUR, Chhattisgarh.<br>
 📌 I am a Coding enthusiast & web development noobi also😉.<br>
 📌 Currently I am learning React💻 for my web development.<br>
-📌I'm also learning some DSA topics.<br>
+📌I'm also learning some Tree in DSA.<br>
 🎯 My achievements are:<br>
 📌 So now If I talk about Hackathons. I believe in practicals. So I like to participate in Hackathons and competitions.<br>
 📌Recenlty I got 2nd position in Code-mania which is conducted by equilibrio'22 Guru Ghasidas University and hosted by Codechef ITGGV chapter.<br>
@@ -20,8 +20,8 @@ Skills:⭐
 ## C++/ C / JS / HTML / CSS / BOOTSTRAP / DSA
 
 
-- 🔭 I’m currently working on Front-end web development 
-- 🌱 I’m currently learning DSA and JAVASCRIPT. 
+- 🔭 I’m currently working on React.
+- 🌱 I’m currently learning Web-Development. 
 - 👯 I’m looking to collaborate on Web Development. 
 - 📫 How to reach me: js.saini267@gmail.com 
 - 😄 Pronouns: she/her 
