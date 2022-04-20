@@ -8,7 +8,7 @@
 🎯 Currently, I am pursuing BTech 2nd year in Information technology from GGV BILASPUR, Chhattisgarh.<br>
 📌 I am a Coding enthusiast & web development noobi also😉.<br>
 📌 Currently I am learning React💻 for my web development.<br>
-📌I'm also learning some Tree in DSA.<br>
+📌I'm also learning DSA.<br>
 🎯 My achievements are:<br>
 📌 So now If I talk about Hackathons. I believe in practicals. So I like to participate in Hackathons and competitions.<br>
 📌Recenlty I got 2nd position in Code-mania which is conducted by equilibrio'22 Guru Ghasidas University and hosted by Codechef ITGGV chapter.<br>
