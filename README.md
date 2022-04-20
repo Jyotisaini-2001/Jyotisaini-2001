@@ -9,15 +9,15 @@
 📌 I am a Coding enthusiast & web development noobi also😉.<br>
 📌 Currently I am learning React💻 for my web development.<br>
 📌I'm also learning some DSA topics.<br>
-🎯🎯 My achievements are:<br>
-📌📌 So now If I talk about Hackathons. I believe in practicals. So I like to participate in Hackathons and competitions.<br>
+🎯 My achievements are:<br>
+📌 So now If I talk about Hackathons. I believe in practicals. So I like to participate in Hackathons and competitions.<br>
 📌Recenlty I got 2nd position in Code-mania which is conducted by equilibrio'22 Guru Ghasidas University and hosted by Codechef ITGGV chapter.<br>
 📌Equilibrio'22 conducted a hackathon "Hackbrio'22" and my team "Sacred compiler" got 3rd position. Hackbrio'22 is an annual National level hackathon organized by the Equlibrio'22 of, Guru Ghasidas University of School of Engineering and Technology, Bilaspur.<br>
 
 
-🎯🎯  I got Gargi Puraskar two times in the 10th and 12th class and I got an inspiring award in my 12th class by the government.🤗🤗<br>
+🎯  I got Gargi Puraskar two times in the 10th and 12th class and I got an inspiring award in my 12th class by the government.🤗🤗<br>
 
-🎯🎯 I got 1st 🥇rank in 10th in my school.<br>
+🎯I got 1st 🥇rank in 10th in my school.<br>
 Skills:⭐
 ## C++/ C / JS / HTML / CSS / BOOTSTRAP / DSA
 
