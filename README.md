@@ -15,9 +15,7 @@
 📌Equilibrio'22 conducted a hackathon "Hackbrio'22" and my team "Sacred compiler" got 3rd position. Hackbrio'22 is an annual National level hackathon organized by the Equlibrio'22 of, Guru Ghasidas University of School of Engineering and Technology, Bilaspur.<br>
 
 
-🎯  I got Gargi Puraskar two times in the 10th and 12th class and I got an inspiring award in my 12th class by the government.🤗🤗<br>
 
-🎯I got 1st 🥇rank in 10th in my school.<br>
 Skills:⭐
 ## C++/ C / JS / HTML / CSS / BOOTSTRAP / DSA
 
