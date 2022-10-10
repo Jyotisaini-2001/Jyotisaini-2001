@@ -2,7 +2,7 @@
 #### Coding enthusiast & Web Developer Noobi.
 ✨""Unlock the guidance, tools, and resources you need to design your best life – then live it🤗. Every. Single. Day🤩.""
 
-<img src="[[https://i.pinimg.com/originals/11/4d/87/114d878c735fb937defbf3a0aab2dccb.gif](https://media1.giphy.com/media/JTVWACMOESFcA1oewp/giphy.gif?cid=6c09b952507f4d837e9c2c48de07ef16dd7426605731dd9b&rid=giphy.gif&ct=s)](https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif)" height="350" width="420">
+<img src="https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif" height="350" width="420">
 <img src="https://i.pinimg.com/originals/11/4d/87/114d878c735fb937defbf3a0aab2dccb.gif" height="350" width="420">
 
 
