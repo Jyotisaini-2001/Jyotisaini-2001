@@ -3,6 +3,7 @@
 ✨""Unlock the guidance, tools, and resources you need to design your best life – then live it🤗. Every. Single. Day🤩.""
 
 <img src="https://i.pinimg.com/originals/11/4d/87/114d878c735fb937defbf3a0aab2dccb.gif" height="350" width="420">
+<img src="https://i.pinimg.com/originals/11/4d/87/114d878c735fb937defbf3a0aab2dccb.gif" height="350" width="420">
 
 
 🎯 Currently, I am pursuing BTech 2nd year in Information technology from GGV BILASPUR, Chhattisgarh.<br>
