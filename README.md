@@ -1,15 +1,17 @@
-### Hi there 👋,<Jyoti Saini🤗 This side./>
-#### Coding enthusiast & Web Developer Noobi.
+### 👋 Hi there, I'm Jyoti Saini! 🤗
+#### 🚀 Unlocking the world of possibilities through code! 💻✨
+#### 💡 Passionate about web development and unleashing my creativity in the digital realm.
 ✨""Unlock the guidance, tools, and resources you need to design your best life – then live it🤗. Every. Single. Day🤩.""
 
 <img src="https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif" height="350" width="420">
 
 
 
-🎯 Currently, I am pursuing BTech 2nd year in Information technology from GGV BILASPUR, Chhattisgarh.<br>
-📌 I am a Coding enthusiast & web development noobi also😉.<br>
-📌 Currently I am learning React💻 for my web development.<br>
-📌I'm also learning DSA.<br>
+🎯 Currently pursuing BTech in Information Technology at GGV Bilaspur, Chhattisgarh. <br>
+🌟 Constantly expanding my skills, exploring the depths of React and embracing the power of modern web development.<br>
+🔍 Exploring the fascinating world of Data Structures and Algorithms, honing my problem-solving abilities one challenge at a time.<br>
+
+Stay tuned for exciting projects and innovative solutions! Let's shape the future with code. 😊🌈🚀<br>
 
 ### 🎯 My achievements are:<br>
 - First runner-up in the **TECHTHRIVE'23** hackathon, demonstrating exceptional problem-solving, creativity, and collaboration     skills.
