@@ -12,7 +12,7 @@
 📌I'm also learning DSA.<br>
 
 ### 🎯 My achievements are:<br>
-- First runner-up in the ```diff TECHTHRIVE 23 hackathon, demonstrating exceptional problem-solving, creativity, and collaboration skills.
+- First runner-up in the <span style="color: black;">TECHTHRIVE'23</span> hackathon, demonstrating exceptional problem-solving, creativity, and collaboration     skills.
 - 2nd position in Code-mania administered by Equilibrio 22 Guru Ghasidas University and hosted by Codechef ITGGV chapter.
 - 3rd position in HackBrio'22, a hackathon organized by Equilibrio 22 of Guru Ghasidas University.
 - Completed Hacktoberfest 22 and received a completion badge.
