@@ -11,7 +11,7 @@
 📌 Currently I am learning React💻 for my web development.<br>
 📌I'm also learning DSA.<br>
 
-🎯 My achievements are:<br>
+### 🎯 My achievements are:<br>
 - First runner-up in the TECHTHRIVE 23 hackathon, demonstrating exceptional problem-solving, creativity, and collaboration skills.
 - 2nd position in Code-mania administered by Equilibrio 22 Guru Ghasidas University and hosted by Codechef ITGGV chapter.
 - 3rd position in HackBrio'22, a hackathon organized by Equilibrio 22 of Guru Ghasidas University.
@@ -19,7 +19,7 @@
 
 
 
-Skills:⭐
+### Skills:⭐
 - Programming Languages: C++, Python, C
 - Web Technology: React JS, HTML, CSS, Bootstrap, JavaScript, Tailwind CSS
 - Developer Tools: Visual Studio Code, Atom, Git, PyCharm
@@ -28,10 +28,11 @@ Skills:⭐
 - API: RESTful API, JSON, API integration
 - Soft Skills: Teamwork, good listener, positive thinker
 
-
-- 🔭 I’m currently working on React.
-- 🌱 I’m currently learning Web-Development. 
-- 👯 I’m looking to collaborate on Web Development. 
+### Looking for collaboration in: 
+- 🔭 I’m currently working on carbon foot-print calculator.
+- 🌱 I need to add more functionality in my weatherApp. 
+-
+###
 - 📫 How to reach me: js.saini267@gmail.com 
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I can watch cartoons whole day😁 
