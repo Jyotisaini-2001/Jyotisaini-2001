@@ -33,10 +33,10 @@ Stay tuned for exciting projects and innovative solutions! Let's shape the futur
 ### Looking for collaboration in: 
 - 🔭 I’m currently working on carbon foot-print calculator.
 - 🌱 I need to add more functionality in my weatherApp. 
--
+
 ###
 - 📫 How to reach me: js.saini267@gmail.com 
-- 😄 Pronouns: she/her 
+- 😄 Pronouns: she/her <br>
 -⚡ Fun fact: I can write code day and night, fueled by endless cups of ☕ and a never-ending supply of 🍕!
 
  ## Connect with me: 
