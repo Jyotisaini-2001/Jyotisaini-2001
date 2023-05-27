@@ -12,10 +12,10 @@
 📌I'm also learning DSA.<br>
 
 ### 🎯 My achievements are:<br>
-- First runner-up in the <span style="color: black;">TECHTHRIVE'23</span> hackathon, demonstrating exceptional problem-solving, creativity, and collaboration     skills.
-- 2nd position in Code-mania administered by Equilibrio 22 Guru Ghasidas University and hosted by Codechef ITGGV chapter.
-- 3rd position in HackBrio'22, a hackathon organized by Equilibrio 22 of Guru Ghasidas University.
-- Completed Hacktoberfest 22 and received a completion badge.
+- First runner-up in the **TECHTHRIVE'23** hackathon, demonstrating exceptional problem-solving, creativity, and collaboration     skills.
+- 2nd position in **Code-mania** administered by **Equilibrio'22** Guru Ghasidas University and hosted by Codechef ITGGV chapter.
+- 3rd position in **HackBrio'22**, a hackathon organized by Equilibrio 22 of Guru Ghasidas University.
+- Completed **Hacktoberfest'22** and received a completion badge.
 
 
 
@@ -35,7 +35,7 @@
 ###
 - 📫 How to reach me: js.saini267@gmail.com 
 - 😄 Pronouns: she/her 
-- ⚡ Fun fact: I can watch cartoons whole day😁 
+-⚡ Fun fact: I can write code day and night, fueled by endless cups of ☕ and a never-ending supply of 🍕!
 
  ## Connect with me: 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jyotisaini-2001)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jyoti-saini-b31752203//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Jyotisa60592422)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/@saini-js)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/jyoti_2002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/js_saini267) 
