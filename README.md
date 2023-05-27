@@ -10,15 +10,23 @@
 📌 I am a Coding enthusiast & web development noobi also😉.<br>
 📌 Currently I am learning React💻 for my web development.<br>
 📌I'm also learning DSA.<br>
+
 🎯 My achievements are:<br>
-📌 So now If I talk about Hackathons. I believe in practicals. So I like to participate in Hackathons and competitions.<br>
-📌Recenlty I got 2nd position in Code-mania which is conducted by equilibrio'22 Guru Ghasidas University and hosted by Codechef ITGGV chapter.<br>
-📌Equilibrio'22 conducted a hackathon "Hackbrio'22" and my team "Sacred compiler" got 3rd position. Hackbrio'22 is an annual National level hackathon organized by the Equlibrio'22 of, Guru Ghasidas University of School of Engineering and Technology, Bilaspur.<br>
+- First runner-up in the TECHTHRIVE 23 hackathon, demonstrating exceptional problem-solving, creativity, and collaboration skills.
+- 2nd position in Code-mania administered by Equilibrio 22 Guru Ghasidas University and hosted by Codechef ITGGV chapter.
+- 3rd position in HackBrio'22, a hackathon organized by Equilibrio 22 of Guru Ghasidas University.
+- Completed Hacktoberfest 22 and received a completion badge.
 
 
 
 Skills:⭐
-## C++/ C / JS / HTML / CSS / BOOTSTRAP / DSA
+- Programming Languages: C++, Python, C
+- Web Technology: React JS, HTML, CSS, Bootstrap, JavaScript, Tailwind CSS
+- Developer Tools: Visual Studio Code, Atom, Git, PyCharm
+- Development Platforms: GitHub, CodeSandbox, Netlify
+- Firebase: Firebase Authentication, Firestore, Cloud Functions, Firebase Hosting
+- API: RESTful API, JSON, API integration
+- Soft Skills: Teamwork, good listener, positive thinker
 
 
 - 🔭 I’m currently working on React.
