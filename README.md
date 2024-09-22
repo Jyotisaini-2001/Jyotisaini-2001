@@ -5,7 +5,7 @@
 
 <img src="https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif" height="350" width="420">
 
- <img src="https://komarev.com/ghpvc/?username=Jyotisaini-2001&color=purple" />
+ <img src="https://komarev.com/ghpvc/?username=Jyotisaini-2001&color=yellow" />
 
 
 🌟 Constantly expanding my skills, exploring the depths of React and embracing the power of modern web development.<br>
