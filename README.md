@@ -7,13 +7,14 @@
 
 
 
-🎯 Currently pursuing BTech in Information Technology at GGV Bilaspur, Chhattisgarh. <br>
 🌟 Constantly expanding my skills, exploring the depths of React and embracing the power of modern web development.<br>
 🔍 Exploring the fascinating world of Data Structures and Algorithms, honing my problem-solving abilities one challenge at a time.<br>
 
 Stay tuned for exciting projects and innovative solutions! Let's shape the future with code. 😊🌈🚀<br>
 
 ### 🎯 My achievements are:<br>
+- Finalist in the **Strategy Track Hackathon**.
+- Top 300 out of 68k in the **Unstop Talent Park - Tech Hackathon**.
 - First runner-up in the **TECHTHRIVE'23** hackathon, demonstrating exceptional problem-solving, creativity, and collaboration     skills.
 - 2nd position in **Code-mania** administered by **Equilibrio'22** Guru Ghasidas University and hosted by Codechef ITGGV chapter.
 - 3rd position in **HackBrio'22**, a hackathon organized by Equilibrio 22 of Guru Ghasidas University.
@@ -22,12 +23,13 @@ Stay tuned for exciting projects and innovative solutions! Let's shape the futur
 
 
 ### Skills:⭐
-- Programming Languages: C++, Python, C
-- Web Technology: React JS, HTML, CSS, Bootstrap, JavaScript, Tailwind CSS
+- Programming Languages: C++, Javascript, 
+- Web Technology: ReactJS (Hooks, Context API,React Router, Component Lifecycle, JSX), NodeJS, HTML5, CSS3, Tailwind CSS, RESTful APIs
 - Developer Tools: Visual Studio Code, Atom, Git, PyCharm
-- Development Platforms: GitHub, CodeSandbox, Netlify
+- Development Platforms: GitHub, CodeSandbox, Netlify, Git
 - Firebase: Firebase Authentication, Firestore, Cloud Functions, Firebase Hosting
 - API: RESTful API, JSON, API integration
+- PROJECT MANAGEMENT: Trello
 - Soft Skills: Teamwork, good listener, positive thinker
 
 ### Looking for collaboration in: 
