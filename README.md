@@ -71,7 +71,6 @@ Stay tuned for exciting projects and innovative solutions! Let's shape the futur
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jyotisaini-2001)  
 
-![Profile views](https://gpvc.arturio.dev/Jyotisaini-2001)  
 
 
 
