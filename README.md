@@ -189,10 +189,10 @@ Responsive personal portfolio with smooth animations, dynamic Notion content int
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=jyotisaini-2001&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotisaini-2001&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" alt="GitHub Streak" width="48%" />
+<img src="https://streak-stats.demolab.com?user=jyotisaini-2001&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" alt="GitHub Streak" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotisaini-2001&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotisaini-2001&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B" alt="Contribution Graph" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotisaini-2001&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B" alt="Contribution Graph" width="48%" />
 
 </div>
 
@@ -208,13 +208,15 @@ Responsive personal portfolio with smooth animations, dynamic Notion content int
 
 ---
 
-## 📈 Contribution Snake
+## 📈 Contribution Activity
 
 <div align="center">
 
-![snake gif](https://github.com/jyotisaini-2001/jyotisaini-2001/blob/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/jyotisaini-2001/jyotisaini-2001/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+> **Note:** To enable the contribution snake animation, you'll need to set up the GitHub Action. See [setup instructions](#snake-setup) below.
 
 ---
 
@@ -254,11 +256,7 @@ I'm always excited to collaborate on innovative projects or discuss tech! Feel f
 
 ### 💭 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
@@ -269,3 +267,58 @@ I'm always excited to collaborate on innovative projects or discuss tech! Feel f
 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 </div>
+
+---
+
+## 🔧 Setup Instructions
+
+<details id="snake-setup">
+<summary><b>📈 Enable Contribution Snake Animation</b></summary>
+
+<br>
+
+To enable the animated contribution snake, follow these steps:
+
+1. **Create `.github/workflows/snake.yml` in your profile repository:**
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs at 00:00 UTC every day
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: jyotisaini-2001
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. **Commit and push** the workflow file
+3. **Enable GitHub Actions** in your repository settings
+4. **Manually trigger** the workflow once from the Actions tab
+5. The snake will update automatically every day!
+
+</details>
+
+---
