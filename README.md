@@ -20,7 +20,7 @@
 ```typescript
 const jyoti = {
   pronouns: "she/her",
-  currentRole: "Software Engineer @ Rayvector Technologies",
+  currentRole: "Software Development Engineer @ Adapts AI",
   location: "Bangalore, India 🇮🇳",
   education: "B.Tech in Information Technology (GPA: 9.11/10)",
 
